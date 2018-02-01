@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=divice-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+	<title>春节减脂抢红包</title>
+	<script type="text/javascript" src="jquery-3.2.1.js"></script>
+	<script type="text/javascript" src="jquery.tap.js"></script>
+	<script type="text/javascript" src="chunjie.js"></script>
+	<link rel="stylesheet" type="text/css" href="bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="chunjie.css">
+
+</head>
+<body>
+	<div class="container">
+		<div class="pages">
+			<img src="images/page_1.png" class="img-responsive center-block" alt="srpingfestival">
+			<p id="hi">FitTime减脂营祝各位同学狗年大吉！<br>
+			快来抢最高<span id="price">188元</span>新年红包！</p>
+			<img src="images/arrow.png" class="img-responsive center-block" alt="next" id="arrow">
+		</div>
+		<div class="pages">
+			<img src="images/redpocket.png" class="img-responsive center-block gift" alt="redpocket" id="redpocket">
+			<img src="images/getredpocket.png" class="img-responsive center-block img-btn" alt="getredpocket" id="getredpocket">
+			<p class="showrules"><span id="showrule1">查看活动规则</span>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<span class="contact">联系客服</span></p>
+
+		</div>
+
+		<div class="pages">
+			<img src="images/page_3.png" class="img-responsive center-block gift" alt="page_3">
+			<img src="images/buy.png" class="img-responsive center-block img-btn" alt="buy" id="buy">
+			<p class="showrules"><span id="showrule2">查看活动规则</span>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<span class="contact">联系客服</span></p>
+		</div>
+		<div class="pages">
+			<p id="page_4">专家尊享包荣耀回归〜
+				<br>
+			购买春节尊享大礼包
+				<br>
+			可获得一期专家班+一期定制班
+				<br>
+			立省500元
+			</p>
+			<img src="images/buymore.png" class="img-responsive center-block camp" id="buymore">
+			<p id="end">本活动最终解释权归FitTime 所有，任何如有疑问请联系客服</p>
+		</div>
+		<br>
+
+		<!--got redpocket-->
+		<div class="gotredpocket hide" id="showredpocket">
+			<div class="background">
+				<div class="content">
+				<h3>恭喜你</h3>
+				<p>成功抢到188元红包，兑换码如下：</p>
+				<h3>JFUHBVYI888</h3>
+				<p>长按复制兑换码</p>
+				<p>在减脂营支付页面中使用</p>
+				<p>即可享受188元优惠</p>
+				<p>适用于任意班级</p>
+				<br>
+				<span><button class="btn camp">立即使用</button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button class="btn" id="cancel">取消</button></span>
+				</div>
+			</div>
+
+		</div>
+		
+
+		<!--show rules1-->
+		<div class="gotredpocket hide" id="rule1">
+			<div class="rules">
+			<h3>活动规则</h3>
+			<br>
+			<p>1. 活动时间：2月19日～2月26日</p>
+			<p>2. 每位用户限领取一次红包，红包适用于任意班级，不可用于购买“春节尊享大礼包”。</p>
+			<p>3. 领取红包后可以在对应的减脂营购买页面填写使用。</p>
+			<p>4. 请在获得兑换码后的15天进行兑换，逾期无效。</p>
+			<p>5. 购买前请仔细阅读用户协议、退款协议和病患须知。</p>
+			</div>
+			<img src="images/close.png" class="closebutton" id="close1">
+		</div>
+
+		<!--show rules2-->
+		<div class="gotredpocket hide" id="rule2">
+			<div class="rules">
+			<h3>活动规则</h3>
+			<br>
+			<p>1. 活动时间：2月19日～2月26日</p>
+			<p>2. 不可与“减脂红包”叠加使用。</p>
+			<p>3. 购买前请仔细阅读用户协议、退款协议和病患须知。</p>
+			</div>
+			<img src="images/close.png" class="closebutton" id="close2">
+		</div>
+
+
+
+	</div>
+
+<script type="text/javascript" src="chunjie.js"></script>
+
+</body>
+</html>
