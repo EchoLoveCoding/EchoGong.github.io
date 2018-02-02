@@ -1,0 +1,44 @@
+body {
+	background-color: #f3f3f4;
+	overflow: hidden;
+}
+.page-box {
+	width: 3335px;
+	height: 540px;
+	margin-top: 15%;
+	margin-left: 20px;
+
+	padding: 0px;
+}
+.moveleft {
+	transform: translateX(-335px);
+}
+.moveright {
+	transform: translateX(335px);
+}
+li {
+	list-style-type: none;
+}
+.dot-box {
+	text-align: center;
+	font-size: 0px;
+}
+.dot {
+	border: solid #f3f3f4 2px;
+	border-radius: 5px;
+	width: 4px;
+	height: 4px;
+	display: inline-block;
+	background-color: #888;
+	margin: 0 1px;
+}
+.on {
+	border: solid #aa8844 2px;
+	border-radius: 5px;
+	width: 4px;
+	height: 4px;
+	background-color: #fff;
+	display: inline-block;
+	margin: 0 1px;
+
+}
