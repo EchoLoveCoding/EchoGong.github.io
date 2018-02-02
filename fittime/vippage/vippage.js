@@ -1,4 +1,11 @@
-$("body").css("overflow", "hidden");
+$('#swiper').on('movestart', function(e) {
+  // If the movestart is heading off in an upwards or downwards
+  // direction, prevent it so that the browser scrolls normally.
+  if ((e.distX > e.distY && e.distX < -e.distY) ||
+      (e.distX < e.distY && e.distX > -e.distY)) {
+    e.preventDefault();
+  }
+});
 $("#swiper").on("swiperight", function(){
 	var xpx = $("#swiper").css("transform");
 	var re = /-[0-9]+|[0-9]+/g;
