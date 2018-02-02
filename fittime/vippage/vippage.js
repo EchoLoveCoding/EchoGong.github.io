@@ -1,3 +1,4 @@
+$("body").css("overflow", "hidden");
 $("#swiper").on("swiperight", function(){
 	var xpx = $("#swiper").css("transform");
 	var re = /-[0-9]+|[0-9]+/g;
