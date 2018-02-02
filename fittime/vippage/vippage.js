@@ -1,4 +1,4 @@
-$("#swiper").on("tap", function(){
+$("#swiper").on("swiperight", function(){
 	var xpx = $("#swiper").css("transform");
 	var re = /-[0-9]+|[0-9]+/g;
 	var nowX = xpx.match(re)[4];
