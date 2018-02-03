@@ -25,7 +25,7 @@ $("#swiper").on("click", function(){
 		}
 
 		$(".dot-box").html(html);
-
+alert(html);
 	}
 	
 
