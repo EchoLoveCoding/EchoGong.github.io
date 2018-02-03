@@ -30,7 +30,7 @@ $("#swiper").on("tap", function(){
 		for(var j=num+1; j<10; j++){
 			html += '<span class="dot"></span>';
 		}
-		alert(html);
+
 		$(".dot-box").html(html);
 
 	}
