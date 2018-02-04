@@ -1,5 +1,5 @@
 
-$("#swiper").on("click", function(){
+$("#swiper").on("swipeLeft", function(){
 	var xpx = $("#swiper").css("transform");
 	var re = /-[0-9]+|[0-9]+/g;
 	var nowX = xpx.match(re)[4];
@@ -23,15 +23,14 @@ $("#swiper").on("click", function(){
 		for(var j=num+1; j<10; j++){
 			html += '<span class="dot"></span>';
 		}
-
 		$(".dot-box").html(html);
-alert(html);
-	}
-	
 
+	}
 });
 
-$("#swiper").on("swipeleft", function(){
+
+
+$("#swiper").on("swipeRight", function(){
 	var xpx = $("#swiper").css("transform");
 	var re = /-[0-9]+|[0-9]+/g;
 	var nowX = xpx.match(re)[4];
@@ -40,7 +39,7 @@ $("#swiper").on("swipeleft", function(){
 		newX = nowX;
 	}
 	else {
-		newX = nowX+335;
+		newX = -(Math.abs(nowX)-335);
 		var change = "translateX" + "(" + newX + "px)";
 		$("#swiper").css("transform", change);
 
@@ -55,6 +54,7 @@ $("#swiper").on("swipeleft", function(){
 		}
 		else{
 			var num = Math.abs(newX/335);
+			alert(newX);
 			for(var i=0; i<num; i++){
 				html += '<span class="dot"></span>';
 			}
