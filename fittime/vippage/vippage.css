@@ -4,20 +4,19 @@ html,body {
 	height: 100%;
 	width: 100%;
 }
-.page-box {
+#swiper {
 	width: 3335px;
 	height: 540px;
-	margin-top: 7%;
+	margin-top: 2%;
 	margin-left: 20px;
-
+	margin-right: 20px;
+	margin-bottom: 0px;
 	padding: 0px;
+	transition: all 0.5s ease-out;
+	-webkit-transition: all 0.5s ease-out;
+	position: relative;
 }
-.moveleft {
-	transform: translateX(-335px);
-}
-.moveright {
-	transform: translateX(335px);
-}
+
 li {
 	list-style-type: none;
 }
