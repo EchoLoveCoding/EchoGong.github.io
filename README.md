@@ -1,12 +1,23 @@
-嗨，你好，我叫龚雪薇，很高兴认识你。
-下面的简历做个简单的自我介绍
+嗨，很高兴认识你。  
+下面是我的简历：  
 
-### 技能及作品
+## 基本信息  
+  
+<img src="https://wx2.sinaimg.cn/mw1024/737d6b71gy1fk4qznvdhmj20qo0zk4qp.jpg" width="200px"/>   
+
+> 龚雪薇（Echo Gong）  
+> 出生年月：1992.5   
+> 联系电话：17612170439   
+> 微信：617554189   
+> email：echogxw@163.com  
+  
+## 技能及作品   
+   
 熟悉html、css、JavaScript、jQuery、AngularJS
-正在学习Node.js
-
-#### 作品列表  （使用codepen.io）  
-
+> 正在学习Node.js和React.js
+   
+#### 作品列表  （使用codepen.io）  
+  
 * [Simon Game 西蒙游戏](https://codepen.io/echogong/full/mxerYy/)
 * [TicTacToeGame 井字棋](https://codepen.io/echogong/full/yKLRLZ/)
 * [Pomodoro Clock 番茄工作法计时器](https://codepen.io/echogong/full/OQeEyG/)
@@ -14,14 +25,18 @@
 * [Wikipedia Viewer 维基百科搜索接口](https://codepen.io/echogong/full/KZOVER/)
 * [FitTime VIP权益介绍-移动端swiper页面](https://codepen.io/echogong/full/oqjPxd/)
 
-
-
+#### 证书
+  
+  完成FCC [（freecodecamp）](https://www.freecodecamp.org/echolovecoding)前端开发400小时学习，获得前端开发证书：
+    
+<img src="https://i.imgur.com/ToFZKBd.jpg" width="400px">
+   
 ### 求职意向
-前端工程师
-全职
-上海
-
+   
+前端工程师  全职  上海
+   
 ### 不懂健身的文案不是好程序员  
+   
 这年头，做个斜杠青年仿佛是一件很潮的事。  
 我心里的斜杠，不是为了在别人看来“很酷”，而是一个探索发现的过程。  
 高中是理科生，大学读了商科，毕业后去了报社，之后到健身创业公司主管新媒体，结果被代码的美感所迷惑，从此“入坑”。  
@@ -36,10 +51,6 @@
 一年前，我开始断断续续接触编程，在网络上学习大学计算机科学公开课，并尝试自己写代码。去年9月，我开始专注的学习，并决定从前端开始写起。  
 到现在，完成了FreeCodeCamp上所有前端的课程，取得了证书，留下了许多作品：
   
-  
-
-### 技能
-html、css、JavaScript、
 
 ### 教育与工作经历
 
@@ -56,5 +67,7 @@ html、css、JavaScript、
 *2015.5-2016.4 上海小腰信息科技有限公司（FitTime） 新媒体及内容运营主管  
 *2016.10-2017.8 北京米天下科技股份有限公司 新媒体运营
 
-### 90后老仙女
-生于1992年，已然是老仙女了，你一定也能想象这个年纪家里的“逼婚之势”多么残暴。
+以上就是我<del>（想破脑袋写出来）</del>的简历，一篇诚心日月可鉴。   
+写了这么多年文字，发现更爱写代码。没有什么比
+写了这么多年文字，发现更爱写代码。新技术和新事物比
+写了这么多年文字，发现更爱写代码。新技术和新事物
