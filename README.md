@@ -12,6 +12,8 @@
 * [Pomodoro Clock 番茄工作法计时器](https://codepen.io/echogong/full/OQeEyG/)
 * [JavaScript Calculator JS计算器](https://codepen.io/echogong/full/oEEyOz/)
 * [Wikipedia Viewer 维基百科搜索接口](https://codepen.io/echogong/full/KZOVER/)
+* [FitTime VIP权益介绍-移动端swiper页面](https://codepen.io/echogong/full/oqjPxd/)
+
 
 
 ### 求职意向
