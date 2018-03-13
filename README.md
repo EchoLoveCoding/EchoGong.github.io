@@ -60,3 +60,4 @@
 没有什么比新技术和新事物更加令人激动了，这一条充满无限可能的路，希望能与你一起走过。
 **Technology is new sexy!**
 <del>（老司机带带我.gif）</del>
+> 对有兴趣也可以来[微博](https://weibo.com/cheriecccccyuki/home?topnav=1&wvr=6)找我，一个沉迷代码许久未发博的伪美食博主～
