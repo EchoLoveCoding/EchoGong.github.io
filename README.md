@@ -19,6 +19,7 @@
 #### 作品列表  （使用codepen.io）  
   
 * [Simon Game 西蒙游戏](https://codepen.io/echogong/full/mxerYy/)
+* <a href="https://codepen.io/echogong/full/mxerYy/" target="_blank">Simon Game 西蒙游戏</a>
 * [TicTacToeGame 井字棋](https://codepen.io/echogong/full/yKLRLZ/)
 * [Pomodoro Clock 番茄工作法计时器](https://codepen.io/echogong/full/OQeEyG/)
 * [JavaScript Calculator JS计算器](https://codepen.io/echogong/full/oEEyOz/)
