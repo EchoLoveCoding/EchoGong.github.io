@@ -61,6 +61,7 @@
 写了这么多年文字，发现更爱写代码。   
 没有什么比新技术和新事物更加令人激动了，这一条充满无限可能的路，希望能与你一起走过。
 **Technology is new sexy!**
+   
 <del>（老司机带带我.gif）</del>
 > 对有兴趣也可以来微博 [龚雪薇薇薇](https://weibo.com/cheriecccccyuki/profile?rightmod=1&wvr=6&mod=personinfo)找我，一个沉迷代码许久未发博的伪美食博主～
 <img src="https://wx1.sinaimg.cn/mw1024/737d6b71ly1fm8keodvhrj20k00k0ab9.jpg" width="200px">
