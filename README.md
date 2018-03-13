@@ -1,8 +1,9 @@
 嗨，很高兴认识你。  
 下面是我的简历：  
-
+   
+    
 ## 基本信息  
-  
+   
 <img src="https://wx2.sinaimg.cn/mw1024/737d6b71gy1fk4qznvdhmj20qo0zk4qp.jpg" width="200px"/>   
 
 > 龚雪薇（Echo Gong）  
@@ -10,9 +11,9 @@
 > 联系电话：17612170439   
 > 微信：617554189   
 > email：echogxw@163.com  
-  
+    
 ## 技能及作品   
-   
+    
 熟悉html、css、JavaScript、jQuery、AngularJS
 > 正在学习Node.js和React.js
    
@@ -30,14 +31,14 @@
   完成FCC [（freecodecamp）](https://www.freecodecamp.org/echolovecoding)前端开发400小时学习，获得前端开发证书：
     
 <img src="https://i.imgur.com/ToFZKBd.jpg" width="400px">
-   
-### 求职意向
+     
+## 求职意向
    
 前端工程师  全职  上海
    
   
-
-### 教育与工作经历
+   
+## 教育与工作经历
 
 最后是教育经历和工作经历，虽然看起来与现在想要找的工作截然不同，但学习的过程都是相通的。  
 在那个过程当中，我锻炼了好文笔，写过100000+，甚至成为了半个健身营养专家，朋友们心中的“减肥KOL”。  
